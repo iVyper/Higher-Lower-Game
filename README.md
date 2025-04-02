@@ -47,8 +47,8 @@ pip install kagglehub
 
 
 ## Demo
-![ Demo](https://imgur.com/a/UGKInty)
-[ Demo](https://imgur.com/a/UGKInty)
+![Higher Lower Game Demo](https://i.imgur.com/a3FvdKf.gif)
+[Higher Lower Game Demo](https://i.imgur.com/a3FvdKf.gif)
 
 ## License
 
